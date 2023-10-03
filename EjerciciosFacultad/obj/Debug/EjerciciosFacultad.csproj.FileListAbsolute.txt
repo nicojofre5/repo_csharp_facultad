@@ -1,0 +1,10 @@
+C:\Users\lnico\OneDrive\Proyectos\Escritorio\1-Propiedades\EjerciciosFacultad\bin\Debug\EjerciciosFacultad.exe.config
+C:\Users\lnico\OneDrive\Proyectos\Escritorio\1-Propiedades\EjerciciosFacultad\bin\Debug\EjerciciosFacultad.exe
+C:\Users\lnico\OneDrive\Proyectos\Escritorio\1-Propiedades\EjerciciosFacultad\bin\Debug\EjerciciosFacultad.pdb
+C:\Users\lnico\OneDrive\Proyectos\Escritorio\1-Propiedades\EjerciciosFacultad\obj\Debug\EjerciciosFacultad.csproj.AssemblyReference.cache
+C:\Users\lnico\OneDrive\Proyectos\Escritorio\1-Propiedades\EjerciciosFacultad\obj\Debug\EjerciciosFacultad.Form1.resources
+C:\Users\lnico\OneDrive\Proyectos\Escritorio\1-Propiedades\EjerciciosFacultad\obj\Debug\EjerciciosFacultad.Properties.Resources.resources
+C:\Users\lnico\OneDrive\Proyectos\Escritorio\1-Propiedades\EjerciciosFacultad\obj\Debug\EjerciciosFacultad.csproj.GenerateResource.cache
+C:\Users\lnico\OneDrive\Proyectos\Escritorio\1-Propiedades\EjerciciosFacultad\obj\Debug\EjerciciosFacultad.csproj.CoreCompileInputs.cache
+C:\Users\lnico\OneDrive\Proyectos\Escritorio\1-Propiedades\EjerciciosFacultad\obj\Debug\EjerciciosFacultad.exe
+C:\Users\lnico\OneDrive\Proyectos\Escritorio\1-Propiedades\EjerciciosFacultad\obj\Debug\EjerciciosFacultad.pdb
