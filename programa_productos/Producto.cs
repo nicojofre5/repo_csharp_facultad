@@ -6,7 +6,17 @@ using System.Threading.Tasks;
 
 namespace programa_productos
 {
-    internal class Producto
+    public class Producto
     {
+        private int id;
+
+        private int codigo;
+
+        public int Codigo
+        {
+            get { return Codigo; }
+            set { Codigo = value; }
+        }
+
     }
 }
